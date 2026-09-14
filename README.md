@@ -1,6 +1,6 @@
 # `.spass` to `.csv` コンバーター
 
-Samsung Passのエクスポートファイル（`.spass`）をローカルで復号し、Bitwardenにインポート可能なCSV形式に変換します。
+Samsung Passのエクスポートファイル（`.spass`）をローカルコンピューターで復号し、Bitwardenにインポート可能なCSV形式に変換します。
 
 ## 特徴
 
